@@ -42,7 +42,7 @@ public class Launcher {
 
         p = new Product();
         p.setName("ds-2cd2132f-i");
-        p.setPrice(120.0);
+        p.setPrice(110.0);
         shop.addProduct(p);
 
         p = new Product();
