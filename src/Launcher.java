@@ -1,7 +1,7 @@
 
 public class Launcher {
     public static void main(String[] args) {
-        print("git test");
+        print("git test second");
     }
 
     static void print(String str) {
