@@ -1,4 +1,6 @@
 
+import Product.Product;
+
 import java.awt.*;
 
 public class Launcher {

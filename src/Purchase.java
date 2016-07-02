@@ -1,4 +1,6 @@
 
+import Product.Product;
+
 import java.util.Date;
 
 public class Purchase {

@@ -1,4 +1,6 @@
 
+import Product.Product;
+
 import java.util.ArrayList;
 
 public class Goods {
